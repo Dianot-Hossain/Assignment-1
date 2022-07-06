@@ -78,3 +78,33 @@ body {
     text-align: center;
     margin-left: 45%;
 }
+
+.third-part {
+    text-align: center;
+}
+
+#big-text {
+    font-size: 40px;
+}
+
+.boxes {
+    display: flex;
+    box-shadow: 10px 40px gray;
+}
+
+.box1 {
+    margin-left: 18%;
+    width: 20%;
+    box-shadow: 10px 40px crimson;
+}
+
+.box2 {
+    margin-left: 5%;
+    width: 20%;
+    box-shadow: 10px 40px salmon;
+}
+
+.box3 {
+    margin-left: 5%;
+    width: 20%;
+}
