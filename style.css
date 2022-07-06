@@ -32,3 +32,49 @@ body {
     background-position: center;
     background-size: 100%;
 }
+
+.middle-part1 {
+    text-align: center;
+}
+
+.headline {
+    font-size: 70px;
+}
+
+.middle-part2 {
+    display: flex;
+    margin-left: 20%;
+
+}
+
+
+
+.middle-part2-2 {
+    margin-left: 10%;
+    margin-top: 13px;
+    color: salmon;
+    border: 5px solid salmon;
+    height: 60px;
+    width: 100px;
+    padding-left: 0.5%;
+}
+
+.middle-part2-3 {
+    margin-left: 10%;
+}
+
+.input-field {
+    font-size: larger;
+    text-align: center;
+}
+
+.link-button2 {
+    text-decoration: none;
+    background-color: salmon;
+    color: white;
+    padding: 10px 30px;
+    border-radius: 10px;
+    font-weight: 700;
+    text-align: center;
+    margin-left: 45%;
+}
