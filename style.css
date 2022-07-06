@@ -89,22 +89,43 @@ body {
 
 .boxes {
     display: flex;
-    box-shadow: 10px 40px gray;
 }
 
 .box1 {
-    margin-left: 18%;
+    margin-left: 13%;
     width: 20%;
-    box-shadow: 10px 40px crimson;
+    padding: 15px;
+    background-color: rgba(255, 127, 80, 0.295);
 }
 
 .box2 {
     margin-left: 5%;
     width: 20%;
-    box-shadow: 10px 40px salmon;
+    padding: 15px;
+    background-color: rgba(189, 183, 107, 0.199);
 }
 
 .box3 {
     margin-left: 5%;
     width: 20%;
+    padding: 15px;
+    background-color: rgba(255, 105, 180, 0.226);
+}
+
+.Final {
+    background-color: rgba(255, 127, 80, 0.171);
+}
+
+.last-part {
+    text-align: center;
+    color: crimson;
+    font-size: 40px;
+    padding-top: 10px;
+}
+
+.lasst-part {
+    text-align: center;
+    font-size: 15px;
+    padding-bottom: 20px;
+
 }
