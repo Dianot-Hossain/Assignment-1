@@ -1,0 +1,34 @@
+body {
+    font-family: 'Roboto Slab', serif;
+    margin: 0;
+}
+
+.Top-part {
+    text-align: center;
+    font-size: 40px;
+    color: white;
+    text-shadow: 0.07em 0 black,
+        0 0.07em black,
+        -0.07em 0 black,
+        0 -0.07em black;
+}
+
+#mini-text {
+    font-size: large;
+}
+
+.link-button {
+    text-decoration: none;
+    background-color: salmon;
+    color: white;
+    padding: 10px 30px;
+    border-radius: 10px;
+    font-weight: 700;
+}
+
+.Top-part-text {
+    background-image: url(Materials/images/donation12.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+}
